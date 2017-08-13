@@ -5,3 +5,6 @@ app-measurement.com
 mobileapptracking.com
 adobetm.com
 omtrdc.net
+slack.com
+slack-msgs.com
+github.io
