@@ -8,3 +8,6 @@ omtrdc.net
 slack.com
 slack-msgs.com
 github.io
+crittercism.com
+omtrdc.net
+dpfile.com
