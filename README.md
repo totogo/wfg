@@ -1,6 +1,15 @@
-# wfg
-## 极路由更新  
-### 本地更新dnsmasq.conf
+# WFG
+## Server Side
+
+[Streisand](https://github.com/jlund/streisand)
+
+## Client Side
+
+### 极路由
+
+[hiwifi-ss](https://github.com/qiwihui/hiwifi-ss)
+
+#### 本地更新dnsmasq.conf
 
 使用项目 [gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq.git) 中的脚本即可
 
