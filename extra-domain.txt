@@ -11,3 +11,4 @@ github.io
 crittercism.com
 omtrdc.net
 dpfile.com
+bstatic.com
