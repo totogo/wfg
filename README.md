@@ -1,7 +1,8 @@
 # WFG
 ## Server Side
 
-[Streisand](https://github.com/jlund/streisand)
+[Streisand](https://github.com/jlund/streisand)  
+[kcptun](https://github.com/xtaci/kcptun) (Should try this)
 
 ## Client Side
 
